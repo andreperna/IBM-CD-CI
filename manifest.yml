@@ -1,0 +1,6 @@
+applications:
+  - name: express
+    random-route: false
+    #   routes:
+    #   - route: teste-nodejs12345
+    memory: 64M
