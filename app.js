@@ -4,7 +4,7 @@ const port = 3000;
 
 //---------- ROTAS
 const handleRoot = (req, res) => {
-  res.send("Teste IBM");
+  res.send("Teste IBM - commit");
 };
 app.get("/", handleRoot);
 
